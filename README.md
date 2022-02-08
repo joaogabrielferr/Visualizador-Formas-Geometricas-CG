@@ -1,6 +1,6 @@
 # Visualizador-Formas-Geometricas-CG
 Obs:O repositório contém um manual detalhado com imagens sobre a execução e utilização do programa.<br/>
-Foi utilizado o PyQT5 (módulo em python para criar GUI apps) para o desenvolvimento e a ferramenta QTDesigner para criar a interface, portanto é necessário ter a o PyQT5 instalada.<br/>
+Foi utilizado o PyQT5 (módulo em python para criar GUI apps) para o desenvolvimento e a ferramenta QTDesigner para criar a interface, portanto é necessário ter o PyQT5 instalado.<br/>
 
 # Sobre
 Este programa foi desenvolvido como trabalho para a disciplina de Computação Gráfica. Contém uma interface onde é possível adicionar e visualizar formas geométricas, e realizar transformações como rotação, translação e escala, além de visualizar algoritmos de clipping em tempo real.<br/>
